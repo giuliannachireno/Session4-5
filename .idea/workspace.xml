@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d964777a-ef6e-4afd-9074-b7b668e30d43" name="Changes" comment="exceptions II">
-      <change afterPath="$PROJECT_DIR$/.idea/Session 4-5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d964777a-ef6e-4afd-9074-b7b668e30d43" name="Changes" comment="while commit">
+      <change afterPath="$PROJECT_DIR$/While_example2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/while_example.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +50,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.While_example2.executor": "Run",
     "Python.exeptions_example.executor": "Debug",
+    "Python.if.executor": "Run",
     "Python.input_example.executor": "Run",
+    "Python.while_example.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -81,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737473705227</updated>
-      <workItem from="1737473706249" duration="3810000" />
+      <workItem from="1737473706249" duration="7408000" />
     </task>
     <task id="LOCAL-00001" summary="Added an input example">
       <option name="closed" value="true" />
@@ -123,7 +124,31 @@
       <option name="project" value="LOCAL" />
       <updated>1737477610211</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="exceptions II">
+      <option name="closed" value="true" />
+      <created>1737478286795</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737478286795</updated>
+    </task>
+    <task id="LOCAL-00007" summary="exceptions II">
+      <option name="closed" value="true" />
+      <created>1737480093098</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737480093098</updated>
+    </task>
+    <task id="LOCAL-00008" summary="while commit">
+      <option name="closed" value="true" />
+      <created>1737481481662</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737481481662</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,10 +159,14 @@
     <MESSAGE value="exceotuons" />
     <MESSAGE value="exceotuons II" />
     <MESSAGE value="exceptions II" />
-    <option name="LAST_COMMIT_MESSAGE" value="exceptions II" />
+    <MESSAGE value="while commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="while commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Session_4_5$exeptions_example.coverage" NAME="exeptions_example Coverage Results" MODIFIED="1737478204431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Session_4_5$input_example.coverage" NAME="input_example Coverage Results" MODIFIED="1737476468153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Session_4_5$input_example.coverage" NAME="input_example Coverage Results" MODIFIED="1737478681366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Session_4_5$if.coverage" NAME="if Coverage Results" MODIFIED="1737480070272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Session_4_5$While_example2.coverage" NAME="While_example2 Coverage Results" MODIFIED="1737481778340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Session_4_5$while_example.coverage" NAME="while_example Coverage Results" MODIFIED="1737481428508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
