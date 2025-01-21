@@ -1,7 +1,5 @@
 name = input("What is your name?")
 print("hello", name)
 age = input("How old are you?")
-
 #another way to format print is via f-strings
       print(f"{name}, you were born in {2024-int(age)}")
-      division = int(age)/0
